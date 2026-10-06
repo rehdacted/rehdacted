@@ -44,23 +44,6 @@ Most of my work is **Lua** on the game side and **Svelte + Tailwind** for NUI.
 | **Frameworks** | ESX, QBCore, Qbox, ox_core, standalone |
 | **Integrations** | ox_inventory, ox_target, qb-target, Discord webhooks |
 
----
-
-### 🚀 Featured Resources
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [ox-editor](https://native-dev.tebex.io/package/7687464)
-<img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a2d9dc525c6eb543cfd75f754509f0a69297faec.png" width="100%" />
-
-Short one-line pitch of what it does.
-`Lua` `Svelte` `Tailwind` · ESX / QB / Qbox
-
-</td>
-<td width="50%" valign="top">
-
 ### 🤝 Commissions
 
 Open for **custom scripts & NUI redesigns**.
